@@ -1,11 +1,13 @@
 <template>
-  <LearnScreen />
+  <!-- <LearnScreen /> -->
+  <SvgMap />
 </template>
 
 <script setup lang="js">
 
-import LearnScreen from './components/LearnScreen.vue'
-
+// import LearnScreen from './components/LearnScreen.vue'
+// import Map from './components/Map.vue'
+import SvgMap from './components/SvgMap.vue'
 
 
 </script>
